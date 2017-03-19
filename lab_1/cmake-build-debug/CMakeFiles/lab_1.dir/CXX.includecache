@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ic2h/Project/grid_systems/lab_1/lab_1_b.cpp
+iostream
+-
+ctime
+-
+cstdlib
+-
+ctime
+-
+
